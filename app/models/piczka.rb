@@ -1,0 +1,2 @@
+class Piczka < ApplicationRecord
+end

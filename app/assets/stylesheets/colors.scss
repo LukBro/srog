@@ -1,0 +1,40 @@
+// @import "bootstrap-sprockets";
+// @import "bootstrap";
+// /* universal */
+//
+// // table-responsive{-sm|-md|-lg|-xl}
+// th {
+//   background-color: grey;
+//   text-align: center;
+//   border: 5px;
+//   border-color: black;
+// }
+//
+// body {
+//   background: green;
+// }
+//
+// td {
+//   background-color: white;
+//   padding: 20px;
+//   border-color: black;
+// }
+//
+// .container {
+//   background: white;
+// }
+//
+// .center {
+//   text-align: center;
+// }
+//
+// input, textarea, select, .uneditable-input {
+//   border: 1px solid #bbb;
+//   width: 50%;
+//   margin-bottom: 15px;
+//   @include box_sizing;
+// }
+//
+// input {
+//   height: auto !important;
+// }

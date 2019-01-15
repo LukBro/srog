@@ -1,0 +1,2 @@
+module WitajHelper
+end

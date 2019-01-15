@@ -1,0 +1,2 @@
+module NeweruserHelper
+end
