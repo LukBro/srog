@@ -3,7 +3,7 @@
 <h1>Lista artykułów</h1>
  <%= link_to "Sign up now!", 'signs', class: "btn btn-secondary btn-block" %>
 <%= link_to 'DODAJ ARTYKUŁ', new_article_path, class:"btn btn-secondary btn-block" %>
-<p><table>
+<p class="p.ostylp"><table>
   <tr>
     <th>Title</th>
     <th>Text</th>
@@ -11,7 +11,7 @@
     <th> Edit</th>
     <th> Delete</th>
   </tr>
-
+</p>
   <% @articles.each do |article| %>
     <tr>
       <td><%= article.title %></td>
